@@ -8,12 +8,12 @@
 
 ### Getting Started Checklist
 
-[] Respond to email invitation to confirm participation.
-[] Complete the poll about when you are available for weekly meetings (link in the initial email).
-[] Schedule a meeting with your group leader (Colby or Christina) for before July 3rd; instructions in the initial email.  Let us know if this isn't possible.
-[] Work on your [project timeline](timeline.md) to discuss at your meeting with your group leader.
-[] Join the Slack space (you'll receive an invite via email).
-[] Introduce yourself on Slack to the others in the program on the #general channel.
+- Respond to email invitation to confirm participation.
+- Complete the poll about when you are available for weekly meetings (link in the initial email).
+- Schedule a meeting with your group leader (Colby or Christina) for before July 3rd; instructions in the initial email.  Let us know if this isn't possible.
+- Work on your [project timeline](timeline.md) to discuss at your meeting with your group leader.
+- Join the Slack space (you'll receive an invite via email).
+- Introduce yourself on Slack to the others in the program on the #general channel.
 
 
 ### Have a Question?
