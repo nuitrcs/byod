@@ -1,15 +1,28 @@
 # Program Expectations
 
+## Goal
+
+The goal of the program is for participants to plan out and complete a data science research project over the course of the summer. Some group members will be working on stand-alone projects, while others will be working on pieces of their larger research. 
+
+## Format
+
+-	write a draft of your project timeline (before meeting with your group leader)
+-	meet one-on-one over Zoom with your group leader to improve the timeline and identify learning resources if needed (before July 3rd if possible)
+- try to meet your weekly goals
+-	attend weekly group meetings from the week of July 6th through the week of August 24th
+-	use the Slack workspace to ask questions and to answer questions from other group members
+
 ## Attendance
 
-You are expected to attend all of the weekly group meetings.  If you miss more than 2, your group members may ask you to leave the group.
+You are expected to attend all of the weekly group meetings. Let your group know if you will miss a meeting. If you miss more than 2, your group members may ask you to leave the group.
 
 For summer, the weekly meetings will run the week of July 6th through the week of August 24th.  
 
 ## Participation
 
-We expect you to engage with your group members, ask and answer questions, and provide encouragement and support.  
+We expect you to engage with your group members, ask and answer questions, and provide encouragement and support. 
 
+We expect you to follow all Northwestern University policies, including relevant codes of conduct, the Discrimination and Harassment Policy, and the Sexual Misconduct Policy. These policies should be followed in group meetings, Slack conversations, and email communications.
 
 ## Scope of Help
 
