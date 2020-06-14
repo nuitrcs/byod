@@ -16,6 +16,6 @@ Hold off discussion/help until the roundtable is over.
 
 ## Group Discussion
 
-Were there common themes?  Is someone encountering an issue that others are likely to have or deal with later?  Does someone have an problem that others want to discuss?
+Were there common themes?  Is someone encountering an issue that others are likely to have or deal with later?  Does someone have a problem that others want to discuss?
 
-Focus on topics that are of relevance to the group.  1:1 help, from the group leader or from peers, can be discussed outside of the group meeting.  
+Focus on topics that are of relevance to the group.  One-on-one help, from the group leader or from peers, can be discussed outside of the group meeting.  
