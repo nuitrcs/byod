@@ -2,15 +2,18 @@
 
 You've got 8 weeks with your group.  What are you looking to accomplish overall and each week?  Creating a project plan will help you get clear about what you're looking to accomplish and keep you on track this summer.
 
-## Pre-planning
+## 1. Pre-planning
 
 How many hours per week do you realistically have for the project?  Are there weeks where you know you will have less or no time?
 
-What specific items are you looking to create?  A data visualization?  A script to run an analysis?  A clean dataset?  Think about what files the directory on your computer for this project looks like at the end.  Remember, you want: raw data set > cleaning/processing scripts > clean data set > analysis and visualization scripts > output artifacts such as plots or tables.
+What specific items are you looking to create?  A data visualization?  A script to run an analysis?  A clean dataset?  Think about what the directory on your computer for this project looks like at the end.  Remember, a normal data flow follows these steps: raw data set > cleaning/processing scripts > clean data set > analysis and visualization scripts > output artifacts such as plots or tables. Your summer project might include only some of these steps.
 
-## Write the Steps
 
-For each item you want to create, write an ordered list of tasks you think you need to complete to create that item.  Do your best - you may not know all of the steps when you're taking on a new type of project.  Your mentors are happy to help you fill in the gaps and identify steps you may be missing.  
+## 2. Write the steps
+
+For each item you want to create, write an ordered list of tasks you think you need to complete to create that item.  Do your best - you may not know all of the steps when you're taking on a new type of project. Your mentors are happy to help you fill in the gaps and identify steps you may be missing. 
+
+#### Example steps
 
 These tasks will be specific to your project and experience level, but here are two examples:
 
@@ -46,10 +49,11 @@ These tasks will be specific to your project and experience level, but here are 
 If you already know you need to take a workshop, complete a tutorial, or learn a specific skill to complete a step, add a pre-requisite step for that learning activity.  Not sure what you may need to learn?  Factor that into your time estimates below.
 
 
+## 3. Create a timeline
 
-## Create a Timeline
+For each step above, estimate the amount of time you think it will take you. 
 
-For each step above, estimate the amount of time you think it will take you.  For example:
+#### Example timeline
 
 *Create a data visualization:*
 
@@ -62,6 +66,15 @@ For each step above, estimate the amount of time you think it will take you.  Fo
 * Write a clean version of the script to produce final graph.  *3 hours initially + 3 hours to incorporate feedback*
 * Document scripts.  *4 hours*
 
-Now, for scheduling, double all of the time estimates you wrote down initially.  Really.  With these doubled times, map your specific tasks (across the full set of items you are aiming to create) to each week, taking into consideration how much time you have available each week.  
 
-Were your goals for the summer reasonable?  If not, what part of the project can you complete by the end of August?  Focus on just that part and try to ignore the rest for now - you can't do everything at once.
+## 4. Double your times
+
+Really, double all of the time estimates you wrote down initially.
+
+
+## 5. Map your timeline to the 8-week schedule
+
+With these doubled times, map your specific tasks (across the full set of items you are aiming to create) to each week, taking into consideration how much time you have available each week.  
+
+
+#### Were your goals for the summer reasonable?  If not, what part of the project can you complete by the end of August?  Focus on just that part and try to ignore the rest for now - you can't do everything at once.
