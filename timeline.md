@@ -1,6 +1,6 @@
 # Creating a Project Timeline
 
-You've got 8 weeks with your group.  What are you looking to accomplish overall and each week?  Creating a project plan will help you get clear about what you're looking to accomplish and keep you on track this summer.
+What are you looking to accomplish overall and each week during the program?  Creating a project plan will help you get clear about what you're looking to accomplish and keep you on track.
 
 ## 1. Pre-planning
 
@@ -69,12 +69,12 @@ For each step above, estimate the amount of time you think it will take you.
 
 ## 4. Double your times
 
-Really, double all of the time estimates you wrote down initially.
+Really, double all of the time estimates you wrote down initially, *especially* for data cleaning and processing steps.
 
 
-## 5. Map your timeline to the 8-week schedule
+## 5. Map your timeline to the weekly schedule
 
 With these doubled times, map your specific tasks (across the full set of items you are aiming to create) to each week, taking into consideration how much time you have available each week.  
 
 
-#### Were your goals for the summer reasonable?  If not, what part of the project can you complete by the end of August?  Focus on just that part and try to ignore the rest for now - you can't do everything at once.
+#### Were your goals for the quarter reasonable?  If not, what part of the project can you complete by the end of the session?  Focus on just that part and try to ignore the rest for now - you can't do everything at once.
