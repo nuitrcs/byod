@@ -4,14 +4,19 @@ Working groups are welcome to deviate from this format.  This is a place to star
 
 ## Roundtable
 
-Round 1: One sentence on how you're doing.
+Round 1
 
-Round 2: What was the goal for last week?  Did you accomplish it?  What went well and/or poorly?  What issues do you want to discuss later?
+* How are you doing in general?  Non-research/work stuff affects projects too!
+* What was the goal for last week?  Did you accomplish it?  
+* What went well and/or poorly?  What issues do you want to discuss later?
 
-Round 3: What is the goal for next week?  What help do you need?
+Round 2
 
+* What is the goal for next week?  
+* What help do you need?
+* Anything you want to discuss?
 
-Hold off discussion/help until the roundtable is over.  
+Hold off more involved discussion/help until the roundtable is over.  
 
 
 ## Group Discussion
