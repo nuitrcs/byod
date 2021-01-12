@@ -2,6 +2,8 @@
 
 Working groups are welcome to deviate from this format.  This is a place to start.
 
+Meetings run 30-60 minutes, depending on what people have to discuss.  
+
 ## Roundtable
 
 Round 1
