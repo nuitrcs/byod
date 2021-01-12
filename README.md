@@ -6,9 +6,9 @@
 * [Group Meeting Format](meeting_format.md)
 * [Program Expectations](expectations.md)
 
-### Fall Dates
+### Winter Dates
 
-Weekly group meetings starting the week of October 5th and ending the week of November 16th.
+Weekly group meetings starting the week of January 25th and go through March 15th.
 
 ### Getting Started Checklist
 
